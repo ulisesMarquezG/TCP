@@ -25,4 +25,3 @@ python Server.py
 En otra terminal, navega a la misma carpeta donde están los archivos y ejecuta el cliente:
 
 python Client.py
->>>>>>> master
